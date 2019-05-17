@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: brandoncornelio
+Build-Jdk: 11.0.2
+Implementation-Title: springboot2-jpa-swagger2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.guides.springboot2
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot2-jpa-swagger2
+Created-By: Maven Integration for Eclipse
+
