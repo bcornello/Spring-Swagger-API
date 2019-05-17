@@ -34,7 +34,7 @@ If you get this error: `Error Code: 1046. No database selected Select the defaul
 
 # Jenkins
 
-Using ngrok to tunnel local ip. This makes it possible to setup a webhook that triggers a build when code changes are comitted.
+Using ngrok to tunnel local ip. This makes it possible to setup a webhook that triggers a build when code changes are comitted. Remeber to update the tunnel address in the Github project settings if setting up webhook.
 
 # Contact
 
