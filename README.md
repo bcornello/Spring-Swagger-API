@@ -32,6 +32,10 @@ Run `SELECT * FROM employees;` in mySQL Workbench to see all of the values in th
 
 If you get this error: `Error Code: 1046. No database selected Select the default DB to be used by double-clicking its name in the SCHEMAS list in the sidebar.`, run `use mydb;` and try again
 
+# Jenkins
+
+Using ngrok to tunnel local ip. This makes it possible to setup a webhook that triggers a build when code changes are comitted.
+
 # Contact
 
 Email me at Cornelio_Brandon@bah.com for assistance running this project.
