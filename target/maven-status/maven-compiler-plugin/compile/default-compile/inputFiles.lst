@@ -1,8 +1,8 @@
-/Users/brandoncornelio/Documents/GitHub/springboot2-jpa-swagger2/src/main/java/net/guides/springboot2/springboot2swagger2/exception/ErrorDetails.java
-/Users/brandoncornelio/Documents/GitHub/springboot2-jpa-swagger2/src/main/java/net/guides/springboot2/springboot2swagger2/config/Swagger2Config.java
-/Users/brandoncornelio/Documents/GitHub/springboot2-jpa-swagger2/src/main/java/net/guides/springboot2/springboot2swagger2/exception/GlobalExceptionHandler.java
-/Users/brandoncornelio/Documents/GitHub/springboot2-jpa-swagger2/src/main/java/net/guides/springboot2/springboot2swagger2/exception/ResourceNotFoundException.java
-/Users/brandoncornelio/Documents/GitHub/springboot2-jpa-swagger2/src/main/java/net/guides/springboot2/springboot2swagger2/repository/EmployeeRepository.java
-/Users/brandoncornelio/Documents/GitHub/springboot2-jpa-swagger2/src/main/java/net/guides/springboot2/springboot2swagger2/model/Employee.java
-/Users/brandoncornelio/Documents/GitHub/springboot2-jpa-swagger2/src/main/java/net/guides/springboot2/springboot2swagger2/controller/EmployeeController.java
-/Users/brandoncornelio/Documents/GitHub/springboot2-jpa-swagger2/src/main/java/net/guides/springboot2/springboot2swagger2/Springboot2Swagger2Application.java
+/Users/brandoncornelio/Documents/GitHub/Spring-Swagger-API/src/main/java/net/guides/springboot2/springboot2swagger2/controller/EmployeeController.java
+/Users/brandoncornelio/Documents/GitHub/Spring-Swagger-API/src/main/java/net/guides/springboot2/springboot2swagger2/config/Swagger2Config.java
+/Users/brandoncornelio/Documents/GitHub/Spring-Swagger-API/src/main/java/net/guides/springboot2/springboot2swagger2/exception/GlobalExceptionHandler.java
+/Users/brandoncornelio/Documents/GitHub/Spring-Swagger-API/src/main/java/net/guides/springboot2/springboot2swagger2/model/Employee.java
+/Users/brandoncornelio/Documents/GitHub/Spring-Swagger-API/src/main/java/net/guides/springboot2/springboot2swagger2/Springboot2Swagger2Application.java
+/Users/brandoncornelio/Documents/GitHub/Spring-Swagger-API/src/main/java/net/guides/springboot2/springboot2swagger2/repository/EmployeeRepository.java
+/Users/brandoncornelio/Documents/GitHub/Spring-Swagger-API/src/main/java/net/guides/springboot2/springboot2swagger2/exception/ResourceNotFoundException.java
+/Users/brandoncornelio/Documents/GitHub/Spring-Swagger-API/src/main/java/net/guides/springboot2/springboot2swagger2/exception/ErrorDetails.java
